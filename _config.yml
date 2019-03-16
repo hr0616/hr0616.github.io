@@ -81,3 +81,5 @@ kramdown:
 
 # for Disqus
 disqus_shortname: chr0616
+
+hexo generate -d

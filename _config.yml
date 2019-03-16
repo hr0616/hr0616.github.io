@@ -78,3 +78,6 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
+
+# for Disqus
+disqus_shortname: chr0616
